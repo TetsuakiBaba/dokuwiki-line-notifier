@@ -1,4 +1,4 @@
-# DokuWiki Slack Notifier
+# DokuWiki LINE Notifier
 This plugin is fored and inspired from https://github.com/mallchin/dokuwiki-line-notifier.
 A DokuWiki plugin that notifies to line notify.
 
