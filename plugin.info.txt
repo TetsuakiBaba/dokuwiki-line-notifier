@@ -1,0 +1,7 @@
+base   linenotifier
+author TetsuakiBaba
+email  tetsuaki.baba@gmail.com
+date   2020-03-17
+name   Line Notifier
+desc   Notify page events via LINE
+url    https://www.github.com/TetsuakiBaba/dokuwiki-line-notifier/
